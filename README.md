@@ -33,7 +33,7 @@ First screen include option from un-done task, second from done.<br />
 	
 ### Clear all button remove all tasks, include done.
 <img src="https://github.com/user-attachments/assets/c8e20968-2c18-40e0-87c0-2df3d99eedae" width="250"><br />
-Remove button works<br />
+"Clear all" button works<br />
 <img src="https://github.com/user-attachments/assets/c9d34d96-29af-4a76-96b8-d618875d120b" width="500">
 
 
